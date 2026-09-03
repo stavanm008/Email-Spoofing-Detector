@@ -1,0 +1,6 @@
+Received: from mail.com (192.168.1.1)
+From: ceo@company.com
+Return-Path: <random@attacker.net>
+Subject: Transfer
+
+Send the files.
